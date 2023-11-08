@@ -27,7 +27,7 @@ puis git remote add origin http://github.com/usernam??/namenode.git
 
 puis git branch -m main 
 
-puis git push u- 
+puis git push -u
 
 
 
