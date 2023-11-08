@@ -11,3 +11,5 @@ git remote add origin http://github.com/usernam??/namenode.git
 git branch -u origin main 
 
 git push -u origin main  --> demande password a aller chercher sur github 
+                              ENregistrer dans code je sais pas quoi.
+
